@@ -135,5 +135,3 @@ python final_evaluation.py
 ```
 This will evaluate the model performance on HumanML3D dataset by default. You could also run on KIT-ML dataset by uncommenting certain lines in *./final_evaluation.py*. The statistical results will saved to *./t2m_evaluation.log*.
 
-### Misc
- Contact Chuan Guo at cguo2@ualberta.ca for any questions or comments.
